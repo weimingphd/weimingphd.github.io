@@ -20,8 +20,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Activities"
-    url: /activity/
+#  - title: "Activities"
+#    url: /activity/
     
-  - title: "News"
-    url: /news/
+#  - title: "News"
+#    url: /news/
