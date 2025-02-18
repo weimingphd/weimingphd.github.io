@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "Weiming Guan"
 description              : &description "personal description"
@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "&emsp;&emsp;管伟明"
+  name             : "&emsp;&emsp;&emsp;管伟明"
   pronouns         : # example: "he/his"  
   bio              : "<font size=3>博士，新疆大学地质与矿业工程学院副院长、教授</font></center>" #<center>
   location         : #"Hong Kong"
-  employer         : 新疆大学地质与矿业工程学院
+  employer         : 新疆大学地质与矿业<br>工程学院
   uri              : #https://www.cuhk.edu.hk/english/index.html
   email            : "xxxxxx@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=DLDht70AAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=DLDht70AAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
