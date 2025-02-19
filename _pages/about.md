@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "新疆大学地质与矿业工程学院 管伟明个人简介"
+title: "新疆大学地质与矿业工程学院 管伟明"
 author_profile: true
 redirect_from: 
   - /about/
