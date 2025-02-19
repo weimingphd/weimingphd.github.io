@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "<font size=3>博士，新疆大学地质与矿业工程学院副院长、教授</font></center>" #<center>
   location         : #"Hong Kong"
-  employer         : 新疆大学地质与矿业<br>工程学院
-  uri              : https://dkxy.xju.edu.cn/info/1193/1485.htm
+  employer         : <a href="https://dkxy.xju.edu.cn/info/1193/1485.htm">新疆大学地质与矿业<br>工程学院</a>
+  uri              : #https://dkxy.xju.edu.cn/info/1193/1485.htm
   email            : "gwmxju@xju.edu.cn" 
 
   # Academic websites
